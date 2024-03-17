@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class Accounting2 {
+public class Accounting {
 	private static Map<Integer, Integer> map;
 	private static int population;
 	private static int wealth;
